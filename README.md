@@ -1,16 +1,37 @@
-### Hi there 👋
+# simon—@simonpcouch
 
-<!--
-**simonpcouch/simonpcouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm simon (he/him), an R developer and statistics student, currently working on my undergrad in math/statistics at reed college in portland, oregon.🐛
 
-Here are some ideas to get you started:
+-----------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### software
+
+i work on software for statistical modeling at [rstudio](https://github.com/rstudio), and have co-authored some R packages such as:  
+
+- [tidymodels/broom](https://github.com/tidymodels/broom): convert statistical analysis objects to tidy tibbles
+- [tidymodels/infer](https://github.com/tidymodels/infer): a grammar for tidy statistical inference
+- [simonpcouch/anyflights](https://github.com/simonpcouch/anyflights): query `nycflights13`-like data for any recent year and US airport
+- [simonpcouch/gbfs](https://github.com/simonpcouch/gbfs): query data on public bikes from hundreds of bikeshare programs
+
+-----------
+
+#### research
+
+my research is in privacy-preserving data analysis. source code for some of my papers can be found here:  
+
+- [simonpcouch/non-pm-dpht](https://github.com/simonpcouch/non-pm-dpht): _Differentially Private Nonparametric Hypothesis Testing_
+- [simonpcouch/wilcoxon](https://github.com/simonpcouch/wilcoxon): _A Differentially Private Wilcoxon Signed-Rank Test_
+
+i also really value social-technical research, and have written a bit about R, differential privacy, and social inequality:  
+
+- [simonpcouch/social_divisions_in_data](https://github.com/simonpcouch/social_divisions_in_data): _Characterizing How Social Difference is Encoded in CRAN Data_
+- [simonpcouch/dp_census](https://github.com/simonpcouch/dp_census): _Differential Privacy, Race, and the 2020 U.S. Census_
+- [simonpcouch/gendering_documentation](gendering_documentation): _Gender, Documentation, and Communities of Statistical Computing_
+
+-----------
+
+#### say hi!
+
+if you're interested in trainings/workshops about R, the tidyverse, or tidymodels, please get in touch! i'm an [RStudio-certified](https://education.rstudio.com/trainers/people/couch+simon/) tidyverse trainer.🦆
+
+please feel to reach out at [by email](mailto:simonpatrickcouch@gmail.com), on my [website](https://github.com/rstudio), or on my social media @simonpcouch!
