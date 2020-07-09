@@ -1,6 +1,4 @@
-# simon—@simonpcouch
-
-i'm simon (he/him), an R developer and statistics student, currently working on my undergrad in math/statistics at reed college in portland, oregon.🐛
+i'm simon (he/him), an R developer and statistics student, currently working on my undergrad in math/statistics at reed college.🐛
 
 -----------
 
@@ -32,6 +30,6 @@ i also really value social-technical research, and have written a bit about R, d
 
 #### say hi!
 
-if you're interested in trainings/workshops about R, the tidyverse, or tidymodels, please get in touch! i'm an [RStudio-certified](https://education.rstudio.com/trainers/people/couch+simon/) tidyverse trainer.🦆
+if you're interested in trainings/workshops about R, the tidyverse, or tidymodels, please get in touch! i'm an [rstudio-certified](https://education.rstudio.com/trainers/people/couch+simon/) tidyverse trainer.🦆
 
 please feel to reach out at [by email](mailto:simonpatrickcouch@gmail.com), on my [website](https://github.com/rstudio), or on my social media @simonpcouch!
