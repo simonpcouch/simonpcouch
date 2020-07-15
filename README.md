@@ -25,7 +25,7 @@ i also really value social-technical research, and have written a bit about R, d
 
 - [simonpcouch/social_divisions_in_data](https://github.com/simonpcouch/social_divisions_in_data): _Characterizing How Social Difference is Encoded in CRAN Data_
 - [simonpcouch/dp_census](https://github.com/simonpcouch/dp_census): _Differential Privacy, Race, and the 2020 U.S. Census_
-- [simonpcouch/gendering_documentation](gendering_documentation): _Gender, Documentation, and Communities of Statistical Computing_
+- [simonpcouch/gendering_documentation](https://github.com/simonpcouch/gendering_documentation): _Gender, Documentation, and Communities of Statistical Computing_
 
 -----------
 
