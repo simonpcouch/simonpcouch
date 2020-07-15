@@ -8,6 +8,7 @@ i work on software for statistical modeling at [rstudio](https://github.com/rstu
 
 - [tidymodels/broom](https://github.com/tidymodels/broom): convert statistical analysis objects to tidy tibbles
 - [tidymodels/infer](https://github.com/tidymodels/infer): a grammar for tidy statistical inference
+- [tidymodels/stacks](https://github.com/tidymodels/stacks): tidymodels-friendly model stacking and ensembling
 - [simonpcouch/anyflights](https://github.com/simonpcouch/anyflights): query `nycflights13`-like data for any recent year and US airport
 - [simonpcouch/gbfs](https://github.com/simonpcouch/gbfs): query data on public bikes from hundreds of bikeshare programs
 
