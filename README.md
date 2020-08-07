@@ -4,7 +4,7 @@ i'm simon (he/him), an R developer and statistics student, currently working on 
 
 #### 🐛 software
 
-i work on software for statistical modeling at [rstudio](https://github.com/rstudio), and have co-authored some R packages such as:  
+i work on software for statistical modeling (formerly at [rstudio](https://github.com/rstudio)), and have co-authored some R packages such as:  
 
 - [tidymodels/broom](https://github.com/tidymodels/broom): convert statistical analysis objects to tidy tibbles
 - [tidymodels/infer](https://github.com/tidymodels/infer): a grammar for tidy statistical inference
