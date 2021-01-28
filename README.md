@@ -33,5 +33,5 @@ i also really value social-technical research, and have written a bit about R, d
 
 if you're interested in trainings/workshops about R, the tidyverse, or tidymodels, please get in touch! i'm an [rstudio-certified](https://education.rstudio.com/trainers/people/couch+simon/) tidyverse trainer.
 
-please feel to reach out at [by email](mailto:simonpatrickcouch@gmail.com) or by twitter [@simonpcouch](https://twitter.com/simonpcouch)! I've written a bit more about what I work on on my [website](https://simonpcouch.com) and my [blog](https://blog.simonpcouch.com/).
+please feel to reach out [by email](mailto:simonpatrickcouch@gmail.com) or by twitter [@simonpcouch](https://twitter.com/simonpcouch)! i've written a bit more about what i work on on my [website](https://simonpcouch.com) and my [blog](https://blog.simonpcouch.com/).
 
