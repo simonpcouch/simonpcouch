@@ -36,3 +36,5 @@ if you're interested in trainings/workshops about R, the tidyverse, or tidymodel
 
 please feel to reach out [by email](mailto:simonpatrickcouch@gmail.com) or by twitter [@simonpcouch](https://twitter.com/simonpcouch)! i've written a bit more about what i work on on my [website](https://simonpcouch.com) and my [blog](https://blog.simonpcouch.com/).
 
+if you'd like to support my blog and/or maintenance on {broom}, {infer}, and {stacks}, you can [buy me a coffee](https://ko-fi.com/simonpcouch).
+
