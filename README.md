@@ -1,4 +1,4 @@
-i'm simon (he/him), an R developer and statistics student. i recently completed my undergrad in math/statistics at reed college and will be starting my PhD in biostatistics at Johns Hopkins this fall.
+i'm simon (he/him), an R developer and statistics student. i recently completed my undergrad in math/statistics at reed college and will be starting my PhD in biostatistics at johns hopkins this fall.
 
 -----------
 
