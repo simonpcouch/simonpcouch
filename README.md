@@ -1,10 +1,10 @@
-i'm simon (he/him), an R developer and statistics student, currently working on my undergrad in math/statistics at reed college.
+i'm simon (he/him), an R developer and statistics student. i recently completed my undergrad in math/statistics at reed college and will be starting my PhD in biostatistics at Johns Hopkins this fall.
 
 -----------
 
 #### 🐛 software
 
-i work on software for statistical modeling at [rstudio](https://github.com/rstudio) and have co-authored some R packages such as:  
+i work on software for statistical modeling at [rstudio](https://github.com/rstudio) and have co-author and -maintain some R packages such as:  
 
 - [tidymodels/broom](https://github.com/tidymodels/broom): convert statistical analysis objects to tidy tibbles
 - [tidymodels/infer](https://github.com/tidymodels/infer): a grammar for tidy statistical inference
