@@ -1,12 +1,17 @@
-I'm Simon (he/him), an R developer and data scientist. I work on software for statistical modeling at [RStudio](https://github.com/rstudio).🐛
+I'm Simon (he/him), an R developer and data scientist. I work on software for statistical modeling at [RStudio](https://github.com/rstudio) as a generalist maintainer on the tidymodels package ecosystem.🐛
 
-I co-author and -maintain some R packages such as:  
+Here are some R packages for statistical modeling that I work on:  
 
 - [tidymodels/broom](https://github.com/tidymodels/broom): convert statistical analysis objects to tidy tibbles
 - [tidymodels/infer](https://github.com/tidymodels/infer): a grammar for tidy statistical inference
 - [tidymodels/stacks](https://github.com/tidymodels/stacks): tidymodels-friendly model stacking and ensembling
+- [tidymodels/bonsai](https://github.com/tidymodels/bonsai): model wrappers for tree-based models
+
+I also maintain a few personal R packages that range in functionality from data querying to biological methods:
+
 - [simonpcouch/anyflights](https://github.com/simonpcouch/anyflights): query `nycflights13`-like data for any recent year and US airport
 - [simonpcouch/gbfs](https://github.com/simonpcouch/gbfs): query data on public bikes from hundreds of bikeshare programs
+- [simonpcouch/carpentR](https://github.com/simonpcouch/carpentR): predicting lake algal blooms using plankton dynamics
 - [rudeboybert/forestecology](https://github.com/rudeboybert/forestecology): methods for model fitting and assessment in forest ecology
 
 #### 🐥 Say hi!
