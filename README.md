@@ -6,6 +6,8 @@ Here are some R packages for statistical modeling that I work on:
 - [tidymodels/infer](https://github.com/tidymodels/infer): a grammar for tidy statistical inference
 - [tidymodels/stacks](https://github.com/tidymodels/stacks): tidymodels-friendly model stacking and ensembling
 - [tidymodels/bonsai](https://github.com/tidymodels/bonsai): model wrappers for tree-based models
+- [tidymodels/workflowsets](https://github.com/tidymodels/workflowsets): creating collections of modeling workflows
+- [simonpcouch/bundle](https://github.com/simonpcouch/bundle): a consistent interface for model serialization
 
 I also maintain a few personal R packages that range in functionality from data querying to biological methods:
 
