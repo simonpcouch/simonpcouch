@@ -1,4 +1,4 @@
-I'm Simon (he/him), an R developer and data scientist. I work on software for statistical modeling at [RStudio](https://github.com/rstudio) as a generalist maintainer on the tidymodels package ecosystem.🐛
+I'm Simon (he/him), an R developer and data scientist. I work on software for statistical modeling at [Posit PBC](https://github.com/posit-pbc) (formerly RStudio) as a generalist maintainer on the tidymodels package ecosystem.🐛
 
 Here are some R packages for statistical modeling that I work on:  
 
