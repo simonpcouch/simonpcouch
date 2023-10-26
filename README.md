@@ -16,6 +16,7 @@ I also maintain a few personal R packages that range in functionality from data 
 - [simonpcouch/gbfs](https://github.com/simonpcouch/gbfs): query data on public bikes from hundreds of bikeshare programs
 - [simonpcouch/carpentR](https://github.com/simonpcouch/carpentR): predicting lake algal blooms using plankton dynamics
 - [rudeboybert/forestecology](https://github.com/rudeboybert/forestecology): methods for model fitting and assessment in forest ecology
+- [simonpcouch/detectors](https://github.com/simonpcouch/detectors): prediction data from GPT detectors
 
 #### 🐥 Say hi!
 
