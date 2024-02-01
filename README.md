@@ -17,9 +17,10 @@ I also maintain a few personal R packages that range in functionality from data 
 - [simonpcouch/carpentR](https://github.com/simonpcouch/carpentR): predicting lake algal blooms using plankton dynamics
 - [rudeboybert/forestecology](https://github.com/rudeboybert/forestecology): methods for model fitting and assessment in forest ecology
 - [simonpcouch/detectors](https://github.com/simonpcouch/detectors): prediction data from GPT detectors
+- [simonpcouch/readmission](https://github.com/simonpcouch/readmission): hospital readmission data for patients with type 1 diabetes
 
 #### 🐥 Say hi!
 
 If you're interested in trainings/workshops/talks about R, the tidyverse, or tidymodels, please get in touch! I'm a [certified](https://education.rstudio.com/trainers/people/couch+simon/) tidyverse trainer.
 
-Please feel to reach out [by email](mailto:simonpatrickcouch@gmail.com) or by twitter [@simonpcouch](https://twitter.com/simonpcouch)! I've written a bit more about what I work on on my [website](https://simonpcouch.com) and my [blog](https://simonpcouch.com/blog/).
+Please feel to reach out [by email](mailto:simonpatrickcouch@gmail.com). I've written a bit more about what I work on on my [website](https://simonpcouch.com) and my [blog](https://simonpcouch.com/blog/).
