@@ -12,6 +12,7 @@ Here are some R packages for statistical modeling that I work on:
 
 I also maintain a few personal R packages that range in functionality from data querying to biological methods:
 
+- [simonpcouch/stopwatch](https://github.com/simonpcouch/stopwatch): high precision timings using mocking
 - [simonpcouch/anyflights](https://github.com/simonpcouch/anyflights): query `nycflights13`-like data for any recent year and US airport
 - [simonpcouch/gbfs](https://github.com/simonpcouch/gbfs): query data on public bikes from hundreds of bikeshare programs
 - [simonpcouch/carpentR](https://github.com/simonpcouch/carpentR): predicting lake algal blooms using plankton dynamics
