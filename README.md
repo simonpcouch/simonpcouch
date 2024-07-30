@@ -23,6 +23,4 @@ I also maintain a few personal R packages that range in functionality from data 
 
 #### 🐥 Say hi!
 
-If you're interested in trainings/workshops/talks about R, the tidyverse, or tidymodels, please get in touch! I'm a [certified](https://education.rstudio.com/trainers/people/couch+simon/) tidyverse trainer.
-
 Please feel to reach out [by email](mailto:simonpatrickcouch@gmail.com). I've written a bit more about what I work on on my [website](https://simonpcouch.com) and my [blog](https://simonpcouch.com/blog/).
