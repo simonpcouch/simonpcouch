@@ -29,6 +29,4 @@ I also maintain some personal R packages that range in functionality from LLM-as
 - [simonpcouch/readmission](https://github.com/simonpcouch/readmission): hospital readmission data for patients with type 1 diabetes
 - [simonpcouch/forested](https://github.com/simonpcouch/forested): forest attributes in Washington State
 
-#### 🐥 Say hi!
-
-Please feel to reach out [by email](mailto:simonpatrickcouch@gmail.com). I've written a bit more about what I work on on my [website](https://simonpcouch.com) and my [blog](https://simonpcouch.com/blog/).
+Keep up to date with what I'm up to on my [website's blog](https://simonpcouch.com/blog/) as well as the [tidyverse blog](https://www.tidyverse.org/blog/).
