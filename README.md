@@ -19,6 +19,7 @@ The other part of my gig is maintaining database interfaces for R:
 I also maintain some personal R packages that range in functionality from LLM-assisted coding to performance profiling to data querying to biological methods:
 
 - [simonpcouch/pal](https://github.com/simonpcouch/pal): LLM assistants for R
+- [simonpcouch/mdl](https://github.com/simonpcouch/mdl): performant reimagining of R model matrices, written in rust
 - [simonpcouch/syrup](https://github.com/simonpcouch/syrup): profile memory and CPU usage of parallel R code
 - [simonpcouch/stopwatch](https://github.com/simonpcouch/stopwatch): high precision timings using mocking
 - [simonpcouch/anyflights](https://github.com/simonpcouch/anyflights): query `nycflights13`-like data for any recent year and US airport
