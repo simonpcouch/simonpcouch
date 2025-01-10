@@ -1,4 +1,4 @@
-I'm Simon (he/him), an R developer and data scientist. I work on statistical software at [Posit PBC](https://github.com/posit-pbc) (formerly RStudio).🐛
+I'm Simon (he/him), an R developer and data scientist. I build tools for data scientists at [Posit PBC](https://github.com/posit-pbc) (formerly RStudio).🐛
 
 Most of the time, I'm a generalist maintainer on R packages for statistical modeling:
 
@@ -11,14 +11,22 @@ Most of the time, I'm a generalist maintainer on R packages for statistical mode
 - [tidymodels/workflowsets](https://github.com/tidymodels/workflowsets): creating collections of modeling workflows
 - [rstudio/bundle](https://github.com/simonpcouch/bundle): a consistent interface for model serialization
 
-The other part of my gig is maintaining database interfaces for R:
+Related to the above packages, I'm also working on a book called [_Efficient Machine Learning with R_](https://emlwr.org).
+
+I'm also interested in LLM code-assist for data scientists and have built a number of tools to that end:
+
+- [simonpcouch/gander](https://github.com/simonpcouch/gander): high-performance, low-friction chat for data science
+- [simonpcouch/pal](https://github.com/simonpcouch/pal): a library of LLM assistants
+- [simonpcouch/evalthat](https://github.com/simonpcouch/evalthat): testthat-style LLM evaluation
+- [simonpcouch/ensure](https://github.com/simonpcouch/ensure): automated unit testing for R developers
+
+Another part of my gig is maintaining database interfaces for R:
 
 - [r-dbi/odbc](https://github.com/r-dbi/odbc): connect to any ODBC-compliant database with DBI
 - [tidyverse/dbplyr](https://github.com/tidyverse/dbplyr): database backend for dplyr
 
-I also maintain some personal R packages that range in functionality from LLM-assisted coding to performance profiling to data querying to biological methods:
+I also maintain some personal R packages that range in functionality from to performance profiling to data querying to biological methods:
 
-- [simonpcouch/pal](https://github.com/simonpcouch/pal): LLM assistants for R
 - [simonpcouch/mdl](https://github.com/simonpcouch/mdl): performant reimagining of R model matrices, written in rust
 - [simonpcouch/syrup](https://github.com/simonpcouch/syrup): profile memory and CPU usage of parallel R code
 - [simonpcouch/stopwatch](https://github.com/simonpcouch/stopwatch): high precision timings using mocking
