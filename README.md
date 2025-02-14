@@ -16,8 +16,8 @@ Related to the above packages, I'm also working on a book called [_Efficient Mac
 I'm also interested in LLM code-assist for data scientists and have built a number of tools to that end:
 
 - [simonpcouch/gander](https://github.com/simonpcouch/gander): high-performance, low-friction chat for data science
-- [simonpcouch/pal](https://github.com/simonpcouch/pal): a library of LLM assistants
-- [simonpcouch/evalthat](https://github.com/simonpcouch/evalthat): testthat-style LLM evaluation
+- [simonpcouch/chores](https://github.com/simonpcouch/chores): a collection of LLM assistants
+- [simonpcouch/rinspect](https://github.com/simonpcouch/rinspect): LLM evaluation
 - [simonpcouch/ensure](https://github.com/simonpcouch/ensure): automated unit testing for R developers
 
 Another part of my gig is maintaining database interfaces for R:
