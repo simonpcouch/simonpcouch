@@ -1,6 +1,14 @@
 I'm Simon (he/him), an R developer and data scientist. I build tools for data scientists at [Posit PBC](https://github.com/posit-pbc) (formerly RStudio).🐛
 
-Most of the time, I'm a generalist maintainer on R packages for statistical modeling:
+Most of the time, I'm focused on helping R users get the most out of LLMs:
+
+- [tidyverse/vitals](https://github.com/tidyverse/vitals): LLM evaluation
+- [simonpcouch/gander](https://github.com/simonpcouch/gander): high-performance, low-friction chat for data science
+- [simonpcouch/chores](https://github.com/simonpcouch/chores): an extensible collection of LLM assistants
+- [simonpcouch/buggy](https://github.com/simonpcouch/buggy): automatically explain and address errors
+- [simonpcouch/ensure](https://github.com/simonpcouch/ensure): automated unit testing for R developers
+
+I previously spent most of time on R packages for statistical modeling, and still maintain a good few of those packages:
 
 - [tidymodels/broom](https://github.com/tidymodels/broom): convert statistical analysis objects to tidy tibbles
 - [tidymodels/infer](https://github.com/tidymodels/infer): a grammar for tidy statistical inference
@@ -11,14 +19,7 @@ Most of the time, I'm a generalist maintainer on R packages for statistical mode
 - [tidymodels/workflowsets](https://github.com/tidymodels/workflowsets): creating collections of modeling workflows
 - [rstudio/bundle](https://github.com/simonpcouch/bundle): a consistent interface for model serialization
 
-Related to the above packages, I'm also working on a book called [_Efficient Machine Learning with R_](https://emlwr.org).
-
-I'm also interested in LLM code-assist for data scientists and have built a number of tools to that end:
-
-- [simonpcouch/gander](https://github.com/simonpcouch/gander): high-performance, low-friction chat for data science
-- [simonpcouch/chores](https://github.com/simonpcouch/chores): a collection of LLM assistants
-- [simonpcouch/rinspect](https://github.com/simonpcouch/rinspect): LLM evaluation
-- [simonpcouch/ensure](https://github.com/simonpcouch/ensure): automated unit testing for R developers
+Related to the above packages, I also have some pieces of a book called [_Efficient Machine Learning with R_](https://emlwr.org) put together.
 
 Another part of my gig is maintaining database interfaces for R:
 
@@ -27,7 +28,7 @@ Another part of my gig is maintaining database interfaces for R:
 
 I also maintain some personal R packages that range in functionality from to performance profiling to data querying to biological methods:
 
-- [simonpcouch/mdl](https://github.com/simonpcouch/mdl): performant reimagining of R model matrices, written in rust
+- [extendr/mdl](https://github.com/extendr/mdl): performant reimagining of R model matrices, written in rust
 - [simonpcouch/syrup](https://github.com/simonpcouch/syrup): profile memory and CPU usage of parallel R code
 - [simonpcouch/stopwatch](https://github.com/simonpcouch/stopwatch): high precision timings using mocking
 - [simonpcouch/anyflights](https://github.com/simonpcouch/anyflights): query `nycflights13`-like data for any recent year and US airport
