@@ -3,8 +3,15 @@ I'm Simon (he/him), an R developer and data scientist. I build tools for data sc
 Most of the time, I'm focused on helping R users get the most out of LLMs:
 
 - [tidyverse/vitals](https://github.com/tidyverse/vitals): LLM evaluation
+- [posit-dev/mcptools](https://github.com/posit-dev/mcptools): Model Context Protocol (MCP) servers and clients in R
+- [posit-dev/btw](https://github.com/posit-dev/btw): easily provide context on R stuff to LLMs
 - [simonpcouch/gander](https://github.com/simonpcouch/gander): high-performance, low-friction chat for data science
 - [simonpcouch/chores](https://github.com/simonpcouch/chores): an extensible collection of LLM assistants
+- [simonpcouch/predictive](https://github.com/simonpcouch/predictive): an agentic frontend for predictive modeling with tidymodels
+- [simonpcouch/kapa](https://github.com/simonpcouch/kapa): RAG-based search via the kapa.ai API
+
+Some LLM-related experiments that didn't end up going far:
+
 - [simonpcouch/buggy](https://github.com/simonpcouch/buggy): automatically explain and address errors
 - [simonpcouch/ensure](https://github.com/simonpcouch/ensure): automated unit testing for R developers
 
