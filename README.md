@@ -1,13 +1,16 @@
-I'm Simon (he/him), an R developer and data scientist. I build tools for data scientists at [Posit PBC](https://github.com/posit-pbc) (formerly RStudio).🐛
+I'm Simon (he/him), an R developer. I build tools for data scientists at [Posit PBC](https://github.com/posit-pbc) (formerly RStudio).🐛
 
 Most of the time, I'm focused on helping R users get the most out of LLMs:
 
 - [tidyverse/vitals](https://github.com/tidyverse/vitals): LLM evaluation
 - [posit-dev/mcptools](https://github.com/posit-dev/mcptools): Model Context Protocol (MCP) servers and clients in R
+- [simonpcouch/side](https://github.com/simonpcouch/side): `side::kick()`, a coding agent for RStudio
 - [posit-dev/btw](https://github.com/posit-dev/btw): easily provide context on R stuff to LLMs
 - [simonpcouch/gander](https://github.com/simonpcouch/gander): high-performance, low-friction chat for data science
 - [simonpcouch/chores](https://github.com/simonpcouch/chores): an extensible collection of LLM assistants
 - [simonpcouch/predictive](https://github.com/simonpcouch/predictive): an agentic frontend for predictive modeling with tidymodels
+- [simonpcouch/bluffbench](https://github.com/simonpcouch/bluffbench): A visual reasoning LLM benchmark
+- [Positron Assistant](https://positron.posit.co/assistant): A coding agent for Positron
 - [simonpcouch/kapa](https://github.com/simonpcouch/kapa): RAG-based search via the kapa.ai API
 
 Some LLM-related experiments that didn't end up going far:
@@ -15,7 +18,7 @@ Some LLM-related experiments that didn't end up going far:
 - [simonpcouch/buggy](https://github.com/simonpcouch/buggy): automatically explain and address errors
 - [simonpcouch/ensure](https://github.com/simonpcouch/ensure): automated unit testing for R developers
 
-I previously spent most of time on R packages for statistical modeling, and still maintain a good few of those packages:
+I previously spent most of my time on R packages for statistical modeling, and still maintain a good few of those packages:
 
 - [tidymodels/broom](https://github.com/tidymodels/broom): convert statistical analysis objects to tidy tibbles
 - [tidymodels/infer](https://github.com/tidymodels/infer): a grammar for tidy statistical inference
@@ -46,4 +49,4 @@ I also maintain some personal R packages that range in functionality from to per
 - [simonpcouch/readmission](https://github.com/simonpcouch/readmission): hospital readmission data for patients with type 1 diabetes
 - [simonpcouch/forested](https://github.com/simonpcouch/forested): forest attributes in Washington State
 
-Keep up to date with what I'm up to on my [website's blog](https://simonpcouch.com/blog/) as well as the [tidyverse blog](https://www.tidyverse.org/blog/).
+Keep up to date with what I'm up to on my [website's blog](https://simonpcouch.com/blog/), the [tidyverse blog](https://www.tidyverse.org/blog/), and the [Posit AI Newsletter](https://posit.co/blog/?post_tag=ai-newsletter).
